@@ -24,6 +24,10 @@ a {
 	text-decoration: none;
 }
 
+.headline-link {
+	color: #000000;
+}
+
 .header {
 	font-family: 'Playfair Display', serif;
 	padding-bottom: 10px;
